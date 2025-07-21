@@ -1,4 +1,4 @@
-# 팬싸컷 예측기 / The First Fansign Cut Predictor / 签售门槛预测器
+# 팬싸컷 예측기 / The First Fansign Cut Predictor for Kpop Idols / 签售门槛预测器
 
 ![팬싸컷](log.png)
 
